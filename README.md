@@ -32,6 +32,6 @@ The controller is designed for high-power industrial furnaces and has been valid
 ## Repository Structure
 - `/firmware` – embedded source code
 - `/hardware` – schematics and BOM
-- `/docs` – design documentation
+- `/documentation` – design documentation
 <br>
 Designing and validating a 131 kW heating controller requires consideration of fault energy, component aging, and safe failure modes typically addressed only in multi-engineer industrial teams
