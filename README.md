@@ -17,7 +17,7 @@ The controller is designed for high-power industrial furnaces and has been valid
 - Supervised cold-start and recovery state machine<br>
 - Hardware watchdog and analog fault thresholds<br>
 
-**Spec**
+**Spec :**
 - Rated Heater Power: 131 kW<br>
 - Typical Line Current: 150–200 A (3-phase equivalent)<br>
 - Load Type: Kanthal Super (MoSi2)<br>
