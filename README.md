@@ -25,8 +25,9 @@ The controller is designed for high-power industrial furnaces and has been valid
 ## Documentation
 - 📄 [Technical Overview](https://github.com/sinfu98android/131-kW-Kanthal-Super-Heater-Controller-with-Safety-Architecture/blob/bec7cec90d52a5f2b84a17f64c2f4486e8544c4c/Documentation/Technical%20Overview.md)
 - 🛡️ [Safety Architecture](https://github.com/sinfu98android/Kanthal-Super-High-Temperature-Controller/blob/aea99e4c84bd27a27627e6e728dc2e6159ed56b1/Documentation%20/Safety%20Architecture.md)
-- 🔁 [State Machine](docs/State_Machine.md)
-- 📊 [Long-Term Reliability]([docs/Long_Term_Reliability.md](https://github.com/sinfu98android/131-kW-Kanthal-Super-Heater-Controller-with-Safety-Architecture/blob/bec7cec90d52a5f2b84a17f64c2f4486e8544c4c/Documentation/Long%20Time%20Reliablity.md))
+- 🔁 [State Machine](https://github.com/sinfu98android/131-kW-Kanthal-Super-Heater-Controller-with-Safety-Architecture/blob/d838d45998e24ebbc05e2599479edca739a953b8/Documentation/State%20Machine.jpg)
+- 📊 [Long-Term Reliability](https://github.com/sinfu98android/131-kW-Kanthal-Super-Heater-Controller-with-Safety-Architecture/blob/bec7cec90d52a5f2b84a17f64c2f4486e8544c4c/Documentation/Long%20Time%20Reliablity.md)
+- 📎 [Block Diagram](https://github.com/sinfu98android/131-kW-Kanthal-Super-Heater-Controller-with-Safety-Architecture/blob/ce26d7bc2504f890bb98c31c97792afacd08d716/Documentation/Block%20Diagram.jpg)
 
 ## Repository Structure
 - `/firmware` – embedded source code
