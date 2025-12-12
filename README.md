@@ -1,4 +1,4 @@
-![GitHub stars](https://img.shields.io/github/stars/sinfu98android/131-kW-Kanthal-Super-Heater-Controller-with-Safety-Architecture) <br>
+![GitHub stars](https://img.shields.io/github/stars/sinfu98android/131-kW-Kanthal-Super-Heater-Controller-with-Safety-Architecture)
 ![GitHub forks](https://img.shields.io/github/forks/sinfu98android/131-kW-Kanthal-Super-Heater-Controller-with-Safety-Architecture)
 # Kanthal-Super-High-Temperature-Controller (131 KW)
 
