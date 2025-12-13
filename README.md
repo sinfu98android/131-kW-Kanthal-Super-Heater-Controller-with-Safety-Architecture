@@ -38,6 +38,8 @@ The controller is designed for high-power industrial furnaces and has been valid
 - 🔁 [State Machine](https://github.com/sinfu98android/131-kW-Kanthal-Super-Heater-Controller-with-Safety-Architecture/blob/d838d45998e24ebbc05e2599479edca739a953b8/Documentation/State%20Machine.jpg)
 - 📊 [Long-Term Reliability](https://github.com/sinfu98android/131-kW-Kanthal-Super-Heater-Controller-with-Safety-Architecture/blob/bec7cec90d52a5f2b84a17f64c2f4486e8544c4c/Documentation/Long%20Time%20Reliablity.md)
 - 📎 [Block Diagram](https://github.com/sinfu98android/131-kW-Kanthal-Super-Heater-Controller-with-Safety-Architecture/blob/ce26d7bc2504f890bb98c31c97792afacd08d716/Documentation/Block%20Diagram.jpg)
+- ⚠️ [Disclaimer](https://github.com/sinfu98android/131-kW-Kanthal-Super-Heater-Controller-with-Safety-Architecture/blob/8fbc14b7b41c952cbf132f481e2bc1cbaf5e4aba/Documentation/Safety%20Disclaimer.md)
+
 
 ## Repository Structure
 - `/firmware` – embedded source code
