@@ -8,7 +8,7 @@ The controller is designed for high-power industrial furnaces and has been valid
 ## Impact Overview
 - 3+ years continuous industrial operation with zero uncontrolled failures<br>
 - Adaptive ramping algorithm preventing 10–15× cold-start inrush<br>
-- Multi-layer safety architecture (IEC 61508 SIL-2 inspired)<br>
+- Multi-layer safety architecture <br>
 - Safely handled real SSR end-of-life with automatic fail-safe shutdown<br>
 - End-to-end system (hardware + firmware + safety) designed by a single engineer<br>
 
